@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle OS
+ Le num‚ro de s‚rie du volume est E862-3F54
+
+ R‚pertoire de C:\Users\bastoche\Desktop\MyProject
+
+20/06/2019  10:48    <DIR>          .
+20/06/2019  10:48    <DIR>          ..
+20/06/2019  10:48                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  361ÿ651ÿ949ÿ568 octets libres
